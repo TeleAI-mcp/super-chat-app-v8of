@@ -1,2 +1,3 @@
-# super-chat-app-v8of
-A real-time chat application for modern development workflows
+# Super Chat App V8Of
+
+A real-time chat application for modern development workflows.
